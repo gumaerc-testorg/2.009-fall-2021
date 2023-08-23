@@ -47,8 +47,11 @@
     "website": "2-009-product-engineering-process-fall-2021"
   },
   "learning_resource_types": [
-    "Lecture Notes"
+    "Lecture Notes",
+    "Image Gallery",
+    "Projects with Examples"
   ],
-  "site_uid": "ab15fa11-ac6e-4bab-b1bd-5335de680aea",
+  "site_uid": "7951f021-13d5-43f6-baac-2c876457b0c6",
+  "site_short_id": "2.009-fall-2021",
   "title": "Course Metadata"
 }
